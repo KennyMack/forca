@@ -1,0 +1,163 @@
+abelha - animal
+acaro da sarna - animal
+aguia chilena - animal
+aguia cinzenta - animal
+aguia dourada - animal
+albatroz - animal
+alce - animal
+anta - animal
+antrax (bacilo do) - animal
+aranha caranguejeira - animal
+aranha marrom - animal
+araponga - animal
+arara vermelha - animal
+aratu - animal
+asno - animal
+avestruz - animal
+baleia - animal
+barata - animal
+borboleta - animal
+bufalo - animal
+bugio preto - animal
+cabra - animal
+cagado - animal
+calango - animal
+camaleao - animal
+camelo - animal
+cachorro - animal
+capivara - animal
+caranguejo uça - animal
+cardeal - animal
+carneiro - animal
+carpa - animal
+carrapato - animal
+cascavel - animal
+castor - animal
+cavalo - animal
+chacal - animal
+chimpanze - animal
+chupim - animal
+cigarra - animal
+cisne - animal
+civeta - animal
+coala - animal
+cobaia - animal
+coelho - animal
+condor - animal
+corvina - animal
+corvo - animal
+crocodilo - animal
+curimbata - animal
+dourado - animal
+elefante - animal
+esquilo - animal
+foca - animal
+gafanhoto - animal
+galinha - animal
+gamba - animal
+ganso - animal
+garoupa - animal
+gaviao - animal
+girafa - animal
+golfinho - animal
+gorila - animal
+hamster - animal
+hipopotamo - animal
+homem - animal
+jaburu - animal
+jabuti - animal
+jacare - animal
+jacutinga - animal
+jaguatirica - animal
+jararaca - animal
+jiboia - animal
+lagartixa - animal
+lagarto - animal
+lambari - animal
+leao - animal
+lebre - animal
+leopardo - animal
+lhama - animal
+libellula - animal
+lince - animal
+lobo - animal
+lombriga - animal
+lontra - animal
+lula - animal
+marreco - animal
+mico- animal
+mosquito da dengue - animal
+namorado (peixe) - animal
+onça - animal
+orangotango - animal
+ostra japonesa - animal
+ostra - animal
+paca - animal
+pacu - animal
+panda - animal
+papagaio - animal
+pato - animal
+pavao - animal
+peru - animal
+pingüim - animal
+pintado - animal
+piolho - animal
+piranha - animal
+pirarocu - animal
+polvo - animal
+pombo - animal
+pulga - animal
+pulgao - animal
+puma - animal
+raposa - animal
+rinoceronte - animal
+robalo - animal
+sabia - animal
+sagüi - animal
+salmao - animal
+saracura - animal
+sardinha - anima
+tamandua - animal
+tatu - animal
+tico-tanimal
+tigre - animal
+touro - animal
+vaca - animal
+traira - animal
+tucano - animal
+tucunare - animal
+uirapuru - animal
+urso - animal
+urubu - animal
+urutu - animal
+veado - animal
+vespa - animal
+xexeu - animal
+zebra - animal
+zorrilho - animal
+motocicleta - meio de transporte
+carro - meio de transporte
+onibus - meio de transporte
+caminhao - meio de transporte
+trem - meio de transporte
+locomotiva - meio de transporte
+bonde - meio de transporte
+metro - meio de transporte
+elevador - meio de transporte
+submarino - meio de transporte
+balsa - meio de transporte
+barco - meio de transporte
+lancha - meio de transporte
+veleiro - meio de transporte
+navio - meio de transporte
+hovercraft - meio de transporte
+jetski - meio de transporte
+canoa - meio de transporte
+gondola - meio de transporte
+transatlantico - meio de transporte
+aviao - meio de transporte
+helicoptero - meio de transporte
+balao - meio de transporte
+paraquedas - meio de transporte
+planador - meio de transporte
+dirigivel - meio de transporte
