@@ -1,2 +1,2 @@
 # forca
-just a little game of hangman done in python to spend time
+just a little game of hangman build in python to spend time
